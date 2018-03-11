@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bubbled</title>
+    <link>http://bubbled.io/</link>
+    <description>Recent content on Bubbled</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jan 2018 17:16:41 +1300</lastBuildDate>
+    
+	<atom:link href="http://bubbled.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Disclaimer</title>
+      <link>http://bubbled.io/disclaimer/</link>
+      <pubDate>Fri, 05 Jan 2018 17:16:41 +1300</pubDate>
+      
+      <guid>http://bubbled.io/disclaimer/</guid>
+      <description>Bubbled Disclaimer IMPORTANT NOTICE PLEASE READ THIS SECTION AND THE FOLLOWING SECTIONS ENTITLED “DISCLAIMER OF LIABILITY”, “NO REPRESENTATIONS AND WARRANTIES”, “REPRESENTATIONS AND WARRANTIES BY YOU”, “CAUTIONARY NOTE ON FORWARD-LOOKING STATEMENTS”, “MARKET AND INDUSTRY INFORMATION AND NO CONSENT OF OTHER PERSONS”, “NO ADVICE”, “NO FURTHER INFORMATION OR UPDATE”, “RESTRICTIONS ON DISTRIBUTION AND DISSEMINATION”, “NO OFFER OF SECURITIES” AND “RISKS AND UNCERTAINTIES” CAREFULLY.
+IF YOU ARE IN ANY DOUBT AS TO THE ACTION YOU SHOULD TAKE, YOU SHOULD CONSULT YOUR FINANCIAL, TAX, LEGAL OR OTHER PROFESSIONAL ADVISOR(S).</description>
+    </item>
+    
+    <item>
+      <title>Bitcoin Talk</title>
+      <link>http://bubbled.io/bitcoin-talk/</link>
+      <pubDate>Thu, 28 Dec 2017 22:02:52 +1300</pubDate>
+      
+      <guid>http://bubbled.io/bitcoin-talk/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://bubbled.io/contact/</link>
+      <pubDate>Sat, 23 Dec 2017 23:42:29 +1300</pubDate>
+      
+      <guid>http://bubbled.io/contact/</guid>
+      <description>   (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()   </description>
+    </item>
+    
+    <item>
+      <title>Register dApp</title>
+      <link>http://bubbled.io/register-dapp/</link>
+      <pubDate>Sat, 23 Dec 2017 23:42:19 +1300</pubDate>
+      
+      <guid>http://bubbled.io/register-dapp/</guid>
+      <description>   (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()   </description>
+    </item>
+    
+    <item>
+      <title>Register SDK</title>
+      <link>http://bubbled.io/register-sdk/</link>
+      <pubDate>Sat, 23 Dec 2017 23:42:04 +1300</pubDate>
+      
+      <guid>http://bubbled.io/register-sdk/</guid>
+      <description>   (function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id=&#39;typef_orm&#39;,b=&#39;https://s3-eu-west-1.amazonaws.com/share.typeform.com/&#39;;if(!gi.call(d,id)){js=ce.call(d,&#39;script&#39;);js.id=id;js.src=b+&#39;widget.js&#39;;q=gt.call(d,&#39;script&#39;)[0];q.parentNode.insertBefore(js,q)}})()   </description>
+    </item>
+    
+    <item>
+      <title>Bounty Registration</title>
+      <link>http://bubbled.io/bounty-registration/</link>
+      <pubDate>Fri, 22 Dec 2017 01:51:45 +1300</pubDate>
+      
+      <guid>http://bubbled.io/bounty-registration/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Bounty Campaign</title>
+      <link>http://bubbled.io/bounty/</link>
+      <pubDate>Thu, 21 Dec 2017 16:40:07 +1300</pubDate>
+      
+      <guid>http://bubbled.io/bounty/</guid>
+      <description>-- Bubbled Bounty Campaign We are operating our bounty campaign, so participants from the community can help ensure the Bubbled platform achieves true decentralisation and in exchange, receive BBL as a bounty reward.
+We have 400m BBL tokens minted in total. As a bounty reward we will allocate 20m BBL from all coins minted, to be earned via community-led projects.
+We ask that after signing up, you help inform others about the Bubbled TGE in the crypto-community as widely as possible by following these simple instructions.</description>
+    </item>
+    
+    <item>
+      <title>Verified True</title>
+      <link>http://bubbled.io/verified-true/</link>
+      <pubDate>Tue, 19 Dec 2017 18:39:27 +1300</pubDate>
+      
+      <guid>http://bubbled.io/verified-true/</guid>
+      <description>Email Verified    Email address already verified. Thank you.</description>
+    </item>
+    
+    <item>
+      <title>Verified</title>
+      <link>http://bubbled.io/verified/</link>
+      <pubDate>Tue, 19 Dec 2017 14:15:50 +1300</pubDate>
+      
+      <guid>http://bubbled.io/verified/</guid>
+      <description>Email Verified    Successfully verified your email address. Thank you.</description>
+    </item>
+    
+    <item>
+      <title>Registered</title>
+      <link>http://bubbled.io/registered/</link>
+      <pubDate>Tue, 19 Dec 2017 14:15:40 +1300</pubDate>
+      
+      <guid>http://bubbled.io/registered/</guid>
+      <description>Email Registered    Successfully registered your email address for the Bubbled pre-sale.</description>
+    </item>
+    
+    <item>
+      <title>Presale</title>
+      <link>http://bubbled.io/presale/</link>
+      <pubDate>Fri, 08 Dec 2017 19:43:57 +1300</pubDate>
+      
+      <guid>http://bubbled.io/presale/</guid>
+      <description> Pre-Sale Page </description>
+    </item>
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://bubbled.io/faq/</link>
+      <pubDate>Mon, 04 Dec 2017 18:18:44 +1300</pubDate>
+      
+      <guid>http://bubbled.io/faq/</guid>
+      <description>FAQ   What is Bubbled   Bubbled is a globally persistent augmented reality content cloud, built on the blockchain.
+Powered by Ethereum blockchain smart contracts, BigchainDB, IPFS and traditional web technologies; Bubbled provides a decentralised eco-system to experience, create and share content in augmented reality.
+Via the decentral tools provided by Bubbled, end users will be able to seamlessly interact with AR content placed in real-world locations from multiple content creators.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://bubbled.io/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://bubbled.io/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
