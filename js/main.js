@@ -41,7 +41,8 @@ jQuery(document).ready(function($){
 	/* image lazy load function */
 
 	var myLazyLoad = new LazyLoad({
-		class_loading: 'lazy'
+		class_loading: 'lazy',
+		threshold: 500
 	});
 
 	/* navigation toggle */
@@ -149,8 +150,9 @@ jQuery(document).ready(function($){
 		}
 
 		// set sale block height and average time between blocks
-		var saleBlock = 5356000; // 5008500
-		var avgBlockTime = 15; // secs
+		var saleBlock = 5356000; // old start block, incorrect by a day
+		//var saleBlock = 5368000; // corrected start block for 2nd April
+		var avgBlockTime = 14.5; // secs
 
 		// set block height in HTML span
 		$('.blockStart').text(d3.format(',')(saleBlock));

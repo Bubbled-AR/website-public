@@ -6,10 +6,22 @@
     <description>Recent content on Bubbled</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jan 2018 17:16:41 +1300</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2018 17:25:54 +1300</lastBuildDate>
     
 	<atom:link href="http://bubbled.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Our Mission</title>
+      <link>http://bubbled.io/mission/</link>
+      <pubDate>Wed, 14 Feb 2018 17:25:54 +1300</pubDate>
+      
+      <guid>http://bubbled.io/mission/</guid>
+      <description>Our Mission 
+ ‘We envision a world interconnected and seamlessly interwoven with decentralised technologies that democratise control and allow communities to create new and exciting markets.
+Augmented reality presents an exciting evolution in human communication and our intent is that this medium should be available to all, with no one entity controlling the access.
+We also believe that communications should be governed by communities and a decentralised solution that allows all voices to be heard is imperative to the continued development of humans as a species.</description>
+    </item>
     
     <item>
       <title>Disclaimer</title>
@@ -17,7 +29,7 @@
       <pubDate>Fri, 05 Jan 2018 17:16:41 +1300</pubDate>
       
       <guid>http://bubbled.io/disclaimer/</guid>
-      <description>Bubbled Disclaimer IMPORTANT NOTICE PLEASE READ THIS SECTION AND THE FOLLOWING SECTIONS ENTITLED “DISCLAIMER OF LIABILITY”, “NO REPRESENTATIONS AND WARRANTIES”, “REPRESENTATIONS AND WARRANTIES BY YOU”, “CAUTIONARY NOTE ON FORWARD-LOOKING STATEMENTS”, “MARKET AND INDUSTRY INFORMATION AND NO CONSENT OF OTHER PERSONS”, “NO ADVICE”, “NO FURTHER INFORMATION OR UPDATE”, “RESTRICTIONS ON DISTRIBUTION AND DISSEMINATION”, “NO OFFER OF SECURITIES” AND “RISKS AND UNCERTAINTIES” CAREFULLY.
+      <description>Bubbled Disclaimer  IMPORTANT NOTICE PLEASE READ THIS SECTION AND THE FOLLOWING SECTIONS ENTITLED “DISCLAIMER OF LIABILITY”, “NO REPRESENTATIONS AND WARRANTIES”, “REPRESENTATIONS AND WARRANTIES BY YOU”, “CAUTIONARY NOTE ON FORWARD-LOOKING STATEMENTS”, “MARKET AND INDUSTRY INFORMATION AND NO CONSENT OF OTHER PERSONS”, “NO ADVICE”, “NO FURTHER INFORMATION OR UPDATE”, “RESTRICTIONS ON DISTRIBUTION AND DISSEMINATION”, “NO OFFER OF SECURITIES” AND “RISKS AND UNCERTAINTIES” CAREFULLY.
 IF YOU ARE IN ANY DOUBT AS TO THE ACTION YOU SHOULD TAKE, YOU SHOULD CONSULT YOUR FINANCIAL, TAX, LEGAL OR OTHER PROFESSIONAL ADVISOR(S).</description>
     </item>
     
@@ -72,9 +84,11 @@ IF YOU ARE IN ANY DOUBT AS TO THE ACTION YOU SHOULD TAKE, YOU SHOULD CONSULT YOU
       <pubDate>Thu, 21 Dec 2017 16:40:07 +1300</pubDate>
       
       <guid>http://bubbled.io/bounty/</guid>
-      <description>-- Bubbled Bounty Campaign We are operating our bounty campaign, so participants from the community can help ensure the Bubbled platform achieves true decentralisation and in exchange, receive BBL as a bounty reward.
-We have 400m BBL tokens minted in total. As a bounty reward we will allocate 20m BBL from all coins minted, to be earned via community-led projects.
-We ask that after signing up, you help inform others about the Bubbled TGE in the crypto-community as widely as possible by following these simple instructions.</description>
+      <description>-- 
+Bubbled Bounty Campaign We are operating our bounty campaign, so participants from the community can help ensure the Bubbled platform achieves true decentralisation and in exchange, receive BBL as a bounty reward.
+
+Join the bounty program now
+ We have 400m BBL tokens minted in total. As a bounty reward we will allocate 20m BBL from all coins minted, to be earned via community-led projects.</description>
     </item>
     
     <item>

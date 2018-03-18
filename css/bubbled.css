@@ -474,6 +474,14 @@ Bubbled
   word-break: break-all;
 }
 
+.btn-bfar {
+  background:url(../img/logo/bfar_320.png) no-repeat center;
+  cursor:pointer;
+  border:none;
+  width: 320px;
+  height: 103px;
+}
+
 .alternate-bg {
   background-color: #f8f8f8;
 }
@@ -687,6 +695,7 @@ Bubbled
   line-height: 2;
 }
 
+#bfar-link,
 #faq-link, #registerdapp {
   text-align: center;
 }
@@ -694,6 +703,10 @@ Bubbled
 #faq-link > a {
   width: 270px;
   margin-bottom: 65px;
+}
+
+#bfar-link > a {
+  margin-bottom: 10vh;
 }
 
 #registerdapp > a {
@@ -774,7 +787,7 @@ Bubbled
 }
 
 .content-row {
-  padding-bottom: 10vh;
+  padding-bottom: 6vh;
   color: #000;
 }
 
@@ -1386,6 +1399,10 @@ footer ul li a:hover{
   padding: 0;
   border: 0 none;
   box-sizing: border-box;
+}
+
+.disclaimer-heading {
+  padding: 8vh 0 50px 0;
 }
 
 /* Style the buttons that are used to open and close the accordion panel */
